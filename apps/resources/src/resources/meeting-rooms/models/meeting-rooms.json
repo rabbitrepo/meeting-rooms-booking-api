@@ -1,0 +1,8 @@
+{
+    "_id": "ObjectId",
+    "branchId": "ObjectId",
+    "name": "string",
+    "isAvailable": "boolean",
+    "createdAt": "ISODate",
+    "updatedAt": "ISODate"
+}

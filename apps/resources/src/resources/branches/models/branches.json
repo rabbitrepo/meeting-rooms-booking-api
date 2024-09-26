@@ -1,0 +1,6 @@
+{
+    "_id": "ObjectId",
+    "name": "string",
+    "createdAt": "ISODate",           
+    "updatedAt": "ISODate"       
+}
